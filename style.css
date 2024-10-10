@@ -6,8 +6,10 @@
 }
 
 img{
-    border-radius: 30px;
-    background-image: url(file:///Users/elnaz/Desktop/exam/images/marvel.jpg);
+    border-radius: 15px;
+    align-items: center;
+    width: 100%;
+    
     
 }
 body{
